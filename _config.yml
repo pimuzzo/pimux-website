@@ -31,10 +31,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+remote_theme: andrewbanchich/solid-state-jekyll-theme
 
-# plugins:
-#   - jekyll-feed
+plugins:
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
