@@ -146,11 +146,6 @@ var pictures = [
   },
   {
     filename: "30.jpg",
-    title: "Bracconieri",
-    description: "Nikon Coolpix S640 (Photographed by Simone Locci)"
-  },
-  {
-    filename: "37.jpg",
     title: "Le mura",
     description: "Nikon Coolpix S640 (Photographed by Chiara Corrado)"
   },
