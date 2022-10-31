@@ -9,7 +9,7 @@ This is the source code for the Pimux website at [pimux.it](https://pimux.it).
 2. Run a Docker container with `jekyll/jekyll` image and serve the site
 
 ```
-export JEKYLL_VERSION=3.8.6
+export JEKYLL_VERSION=4.2.0
 docker run --rm -it -p 4000:4000 -v "$PWD":/srv/jekyll jekyll/jekyll:$JEKYLL_VERSION jekyll serve
 ```
 
