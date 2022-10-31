@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/andrewbanchich/solid-state-jekyll-theme.git
+  revision: 5657890f0208797a77de3bff9283eed18fda21f1
+  specs:
+    solid_state_jekyll_theme (1.2)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -55,7 +61,6 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
-    solid_state_jekyll_theme (0.1.1)
 
 PLATFORMS
   ruby
@@ -63,8 +68,8 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.8.1)
   jekyll-remote-theme
-  solid_state_jekyll_theme (~> 0.1.1)
+  solid_state_jekyll_theme!
   tzinfo-data
 
 BUNDLED WITH
-   2.0.1
+   2.0.2
